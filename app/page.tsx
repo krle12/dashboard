@@ -23,7 +23,7 @@ export default async function PublicPerfumesPage({
   return (
     <main className="p-8 max-w-7xl mx-auto min-h-screen">
       <h1 className="text-4xl font-extrabold mb-8 text-center text-gray-900 tracking-tight">
-        Ponuda parfema
+        Fragrancebn
       </h1>
 
       <Filters currentGender={currentGender} />
